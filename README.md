@@ -12,7 +12,7 @@ THe Quiz App allows users to answer questions from various categories including 
 * And you are ready for the quiz
 
 ## Live server
-* You can view the web live on [Quizzit App]()
+* You can view the web live on [Quizzit App](https://github.com/hafsa-0-abdy/Phase-1-Project.git)
 
 ## Known Bugs
 It works perfectly okay no known bugs at this time.You can report any isssues you encounter.
@@ -24,7 +24,7 @@ HTML, CSS , JavaScript, JSON
 email ::habsa.abdirizack@student.moringaschool.com
 
 ### License
-*LIcenced under the [MT-licence]()*
+*LIcenced under the [MT-licence](https://github.com/hafsa-0-abdy/Phase-1-Project.git)*
 
 Copyright (c) 2024 **Habsa Abdirizack**# my-quiz app
 # quizzit app
